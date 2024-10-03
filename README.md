@@ -8,7 +8,7 @@ cd dashboard
 ```
 ## Install Packages
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ## Run Streamlit App
 ```bash
