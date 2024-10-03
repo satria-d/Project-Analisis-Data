@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/satria-d/Project-Analisis-Data.git
 cd Project-Analisis-Data
-cd dashboard
+cd Dashboard
 ```
 ## Install Packages
 ```bash
