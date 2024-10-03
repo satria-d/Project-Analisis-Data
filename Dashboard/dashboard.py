@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Load data
 @st.cache
 def load_data():
-    day_df = pd.read_csv('day.csv')  # Adjust the file path as needed
+    day_df = pd.read_csv('./Dashboard/day.csv')
     return day_df
 
 day_df = load_data()
